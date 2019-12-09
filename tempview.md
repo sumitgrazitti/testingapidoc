@@ -5,10 +5,10 @@ Returns a log of user activity in a session. The log includes six kinds of infor
 | Parameter | Optional / Required | Description | Data Type | 
 |--- | --- | --- | --- |
 | `searchSessionId` | Required | Found in Search Analytics > Conversions > Session Tracking - Details. | string | 
-| `startDate` | Required | Only the searches made on or after `startDate` are considered. | string |
-| `endDate` | Required | Only the searches made on or before `endDate` are considered. | string |
-| `count` | Required | Limits the response to `count` search queries. If `count == 5`, then 5 queries are returned. | integer | 
-| `searchClientId` | Required | If a `searchClientId` is not specified, then the cumulative data for all your search clients is considered. | string |
+| `startDate` | Required | ??? | string |
+| `endDate` | Required | ??? | string |
+| `count` | Required | ??? | integer | 
+| `searchClientId` | Required | ??? | string |
 
 
 ## Example Request
