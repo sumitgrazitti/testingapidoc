@@ -1,5 +1,5 @@
-# GET searchSession/bySearchSessionId/15306139130638560
-Returns a log of user activity in a session. The log includes six kinds of information: Viewed Page, Text Searched, Clicked Search Results, Created a Case, Visited Support, and Case Deflection.
+# GET searchSession/bySearchSessionId/{searchSessionId}
+Returns a summary of user activity in a session. The summary includes Viewed Page, Text Searched, Clicked Search Results, Created a Case, Visited Support, and Case Deflection.
 
 ## Parameters
 | Parameter | Optional / Required | Description | Data Type | 
@@ -9,7 +9,6 @@ Returns a log of user activity in a session. The log includes six kinds of infor
 | `endDate` | Required | ??? | string |
 | `count` | Required | ??? | integer | 
 | `searchClientId` | Required | ??? | string |
-
 
 ## Example Request
 
