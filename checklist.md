@@ -1,5 +1,5 @@
 | Priority | Yes/No|
-| --- | --- | --- | --- | 
+| --- | --- | 
 | Alt text | Yes |
 | B&W images | Yes |
 | Visually separate captions | Yes |
