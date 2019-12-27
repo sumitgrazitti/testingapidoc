@@ -20,7 +20,10 @@ Search suggestions will be deactivated for the query on the selected search clie
 * You cannot mute search suggestions for all search queries.
 * Stemming is not supported. Add all the inflections of a query in uppercase, lowercase, and camel case to completely deactivate suggestions.
 
-### Related Docs
+## Causes
+n/a
+
+## Related Docs
 The process has been explained in a more visual manner on [Turn Off Search Suggestions for Keywords
 ](https://docs.searchunify.com/Content/NLP-Manager/Suggestion-Removal.htm)
 
