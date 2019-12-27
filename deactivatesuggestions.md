@@ -1,4 +1,7 @@
-# How to Deactive Search Suggestions?
+# Issue: Turn Off Search Suggestions
+Is there a way to turn off search suggestions on a search client. We want users to think for themselves instead of relying on the hive.
+
+## Resolution
 You can mute search suggestions for a set of queries. This article walks you through the process. 
 
 1. Log into your instance.
@@ -9,7 +12,11 @@ You can mute search suggestions for a set of queries. This article walks you thr
 
 Search suggestions will be deactivated for the query on the selected search client.
 
-## IMPORTANT
+The process has been explained in a more visual manner on [activate](https://docs.searchunify.com/Content/NLP-Manager/Suggestion-Removal.htm)
+### IMPORTANT
 
 * You cannot mute search suggestions for all search queries.
-* Stemming is not supported. Add all the inflections of a query in uppercase, lowercase, and camel case to completely deactivate suggestions. 
+* Stemming is not supported. Add all the inflections of a query in uppercase, lowercase, and camel case to completely deactivate suggestions.
+
+## Tags
+Search clients, search experience, NLP Manager
