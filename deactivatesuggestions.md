@@ -12,7 +12,7 @@ You can mute search suggestions for a set of queries. This article walks you thr
 
 Search suggestions will be deactivated for the query on the selected search client.
 
-### IMPORTANT
+### Important
 
 * You cannot mute search suggestions for all search queries.
 * Stemming is not supported. Add all the inflections of a query in uppercase, lowercase, and camel case to completely deactivate suggestions.
@@ -22,4 +22,4 @@ The process has been explained in a more visual manner on [Turn Off Search Sugge
 ](https://docs.searchunify.com/Content/NLP-Manager/Suggestion-Removal.htm)
 
 ## Tags
-Search clients, search experience, NLP Manager
+search clients, search experience, NLP manager
