@@ -1,13 +1,14 @@
-You can deactive suggestions for a search client or for a set of keywords. This article covers both scenarios.
+You can mute search suggestions for a set of queries. This article walks you through the process. 
 
-## Deactivate All Search Suggestions
+1. Log into your instance.
+2. Go to NLP Manager > Suggestions Removal.
+3. From the Configure Suggestion dropdown, select a search client.
+4. Click Add Text.
+5. Enter a search query and click Submit.
 
-## Deactivate SEarch Suggestions for Certain Keywords
-1. Go to NLP Manager > Suggestions Removal.
-2. 
-1)Click on ""Manage Synonyms""
-2)Click on ""Suggestion Removal""
-3)Select Search client from dropdown
-4)Click on ""Add Text"" button
-5)Enter the search query for which no suggestions should appear.
-6)Click on add."
+Search suggestions will be deactivated for the query on the selected search client.
+
+## IMPORTANT
+
+* You cannot mute search suggestions for all search queries.
+* Stemming is not supported. Add all the inflections of a query in uppercase, lowercase, and camel case to completely deactivate suggestions. 
