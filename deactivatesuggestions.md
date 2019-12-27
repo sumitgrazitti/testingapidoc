@@ -1,3 +1,4 @@
+# How to Deactive Search Suggestions?
 You can mute search suggestions for a set of queries. This article walks you through the process. 
 
 1. Log into your instance.
