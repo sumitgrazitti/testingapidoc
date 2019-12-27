@@ -1,5 +1,8 @@
 # Issue: Turn Off Search Suggestions
-Is there a way to turn off search suggestions on a search client. We want users to think for themselves instead of relying on the hive.
+Search suggestions can cause you to digress at times. How do I mute them?
+
+## Context
+We are looking for a way to deactivate search suggestions on a search client. We want users to think for themselves instead of relying on the hive.
 
 ## Resolution
 You can mute search suggestions for a set of queries. This article walks you through the process. 
