@@ -5,7 +5,7 @@ Consider the following image:
 
 ![alt text](https://i.ibb.co/G2tSJ3W/depth.png)
 
-### Index SearchUnify Home Page
+### ```depth == 1``` | Index SearchUnify Home Page
 If ```depth==1```, then the SearchUnify crawler will index only the home page.
 ### Index  Home Page + Pages in Yellow 
 If ```depth==2```, then the SearchUnify crawler will index the home page and the pages linked to from the home page. The latter pages have been colored yellow in the diagram.
