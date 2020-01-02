@@ -1,0 +1,6 @@
+# ISSUE: Common Search Results Issues
+
+## Archived Content Displays in Search Results
+To remove archived content from the search index, create a directory ``` /archive``` (you can select another name) and place all the documents in that directory.
+- If your content source (CS) is a website, go to Content Sources > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png) > Rules > By Filter, and enter the absolute path of the place where the archived documents are placed in the *Should Not Crawl* box. If your archived documents are placed at ```mycompany.com/archives```, then enter ```https://mycompany.com/archives``` and ```http://mycompany.com/archives```. ![Should Not Crawl](https://i.ibb.co/mhqmKQp/archives.png)   
+- If your CS is not a website, go to Search Clients > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png) > Content Sources > Create Formula, and exclude the directory from appearing in search results. The instructions for using Create Formula are in [Use Create Formula for Access Control](https://docs.searchunify.com/Content/Search-Clients/Create-Formula.htm) 
