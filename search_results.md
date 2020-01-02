@@ -1,10 +1,9 @@
 # Common Search Results Issues
 
 ## ISSUE: Archived (Old or Unwanted) Documents in Search Results
-> *Applicable only only to Website content sources.*
+> *Applicable only to Website content sources. For other content sources, check out **No Way to Exclude Documents from Search*** 
+
 You can remove unwanted documents from appearing in search results. The process involves two steps:
-1. Index only the directories (or folders) where the updated docs, discussions, and/or content is
-2. Recrawl your content source(s) after changing indexing settings
 
 ### 1. Index What Can Be Indexed
 #### **FOR WEBSITE CS**
