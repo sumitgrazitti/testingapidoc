@@ -1,12 +1,11 @@
 # Common Search Results Issues
 
 ## ISSUE: Archived (Old or Unwanted) Documents in Search Results
-> *Applicable only to Website content sources. For other content sources, check out **No Way to Exclude Documents from Search*** 
+> *Applicable only to Website content sources. For other content sources, check out **[No Way to Exclude Documents from Search](https://github.com/chetangrazitti/testingapidoc/blob/master/search_results.md#issue-no-way-to-exclude-documents-from-search)*** 
 
 You can remove unwanted documents from appearing in search results. The process involves two steps:
 
 ### 1. Index What Can Be Indexed
-#### **FOR WEBSITE CS**
 1. Create a directory ``` /archive``` (you can select another name).
 2. Place all the documents in ```/archive```.
 3. Go to **Content Sources** > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png) > **Rules** > **By Filter**.
