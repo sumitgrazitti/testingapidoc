@@ -2,8 +2,11 @@
 There can be multiple reasons for content source indexing to fail. The ones that apply to all content sources include:
 
 ## Applicable to All Content Sources
-- Insufficient permissions: The person whose ID was used to authorize crawling is doesn't have the ``rwx``` permissions on the content they are trying to crawl.
-- No content fields selected: Go to **Content Sources** > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png) > **Rules** and ensure that at least one content field is selected.
+
+### Insufficient Access Permissions 
+The person whose ID was used to authorize crawling is doesn't have the ``rwx``` permissions on the content they are trying to crawl.
+### No Content Fields Fields Selected
+Go to **Content Sources** > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png) > **Rules** and ensure that at least one content field is selected.
 
 ## "Content Source"-Specific Reasons
 
