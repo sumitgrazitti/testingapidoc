@@ -17,7 +17,7 @@ Ensure that all boards, or the ones that you desire to index, are not set to hid
 - Be an admin user with access to the files that you are trying to index. If you cannot view a file on your org, then the chances of SearchUnify indexing it are nil.
 - Ensure that you are a Knowledge user if youare trying to index Salesforce Communities.
 
-## YouTube and Vimeo
+### YouTube and Vimeo
 Subscribe to at least one channel and/or upload at least one video on your channel. Nary a subscription or upload, SearchUnify will have no data to crawl.
 
 ## ISSUE: Content Fields Not Indexed
