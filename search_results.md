@@ -31,7 +31,10 @@ This process involves excluding documents that have either a specified content f
 
 You can find the instructions for using Create Formula are in [Use Create Formula for Access Control](https://docs.searchunify.com/Content/Search-Clients/Create-Formula.htm) 
 
-## ISSUE: Content Fields Not Indexed
-A content type, such as a Zendesk ticket, can have multiple content fields. SearchUnify indexes them all by default. But an admin can change settings, leading to some fields being removed from search. You can fix that.
-1. Go to the **Rules** tab of your content source. To find it, go to **Content Sources** > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png) > **Rules** > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png). 
-2. In the dialog that opens, select the content fields for indexing and searching.
+## ISSUE: Lithium Results Are Broken
+Renaming is a primary reason for broken Lithium results. When you change the name of a board, recrawl your entire content source. Until the recrawl, all Lithium links will remain broken.
+
+## ISSUE: Results Break and Get Fixed Automatically
+Documents are usually inaccessible when indexing is in progress. If you have set indexing to take place at 4 p.m. everyday and the process takes about 5 minutes, then some links might not work during those 5 minutes.
+
+## ISSUE: Cannot Turn Off Search Suggestions 
