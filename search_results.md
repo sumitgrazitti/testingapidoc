@@ -38,3 +38,12 @@ Renaming is a primary reason for broken Lithium results. When you change the nam
 Documents are usually inaccessible when indexing is in progress. If you have set indexing to take place at 4 p.m. everyday and the process takes about 5 minutes, then some links might not work during those 5 minutes.
 
 ## ISSUE: Cannot Turn Off Search Suggestions 
+Search suggestions help users find information quicker. They can be turned off for specific keywords. The process is straightforward.
+1. Go to **NLP Manager** > **Suggestions Removal**.
+2. Select a search client.
+3. Click **Add Text**.
+4. Enter the keyword(s) and click **Save.**
+
+Search suggestions will not be displayed for the keyword(s) on the selected search engine.
+
+> **IMPORTANT**. As of January 2020, search suggestions cannot be turned off entirely for a search client.
