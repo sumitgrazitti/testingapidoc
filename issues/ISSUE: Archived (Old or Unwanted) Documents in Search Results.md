@@ -1,4 +1,4 @@
-## ISSUE: Archived (Old or Unwanted) Documents in Search Results
+## ISSUE: Archived (Old or Unwanted) Documents in Search Results {Incomplete problem statement}
 > *Applicable only to Website content sources. For other content sources, check out **[No Way to Exclude Documents from Search](https://github.com/chetangrazitti/testingapidoc/blob/master/search_results.md#issue-no-way-to-exclude-documents-from-search)*** 
 
 You can remove unwanted documents from appearing in search results. The process involves two steps:
@@ -11,3 +11,6 @@ You can remove unwanted documents from appearing in search results. The process 
 
 ### 2. Recrawl Your CS
 1. Go to **Content Sources** and click ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/recrwal.png). 
+
+
+{we can mention about date-boosting as well for old and archived docs. That's a good use case.}
