@@ -1,5 +1,5 @@
 ## ISSUE: Cannot Turn Off Search Suggestions 
-> **IMPORTANT**. Search suggestions cannot be turned off entirely for a search client.
+> **IMPORTANT**. Search suggestions cannot be turned off entirely for a search client.{How to turn off suggestions for Did you mean feature}
 
 Search suggestions help users find information quicker. Although they cannot be turned off entirely, you can prevent them from displaying for specific keywords. The process is straightforward.
 
