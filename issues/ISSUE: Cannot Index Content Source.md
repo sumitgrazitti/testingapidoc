@@ -1,7 +1,7 @@
 ## ISSUE: Content Source Not Indexed 
 There can be multiple reasons for content source indexing to fail. The most common ones include:  
 
-- The person whose ID was used to authorize crawling is doesn't have the ``rwx``` permissions on the content they are trying to crawl.
+- The person whose ID was used to authorize crawling is doesn't have the ```rwx``` permissions on the content they are trying to crawl.
 - Somehow the content source was saved without selected any field for indexing. Go to **Content Sources** > ![EDIT](https://docs.searchunify.com/Content/Resources-Mamba20/Images/Icons/edit-tuning.png) > **Rules** and ensure that at least one content field is selected.
 - Google Drive does not permit SearchUnify to find and index files until you explicitly provide access. To enable access, go to Search Clients > Edit > Content Sources, and toggle Permissions Override to the left.
 - Ensure that all boards, or the ones that you desire to index, are not set to hidden. (Lithium and other communities)
