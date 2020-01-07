@@ -1,8 +1,8 @@
-## ISSUE: No Way to Exclude Documents from Search 
+## ISSUE: No Way to Exclude Documents from Search {or How to remove documents from the index}
 You can exclude one or two documents from search, or make an entire category of documents invisible to searchers.
 
 ### METHOD 1. Exclude One or Two Docs from Search
-The simplest way to exclude a few documents from search is to delete them from a search engine's index. The process is simple.
+The simplest way to exclude a few documents from search is to delete them from a search engine's index. 
 1. Go to **Content Sources** > **Total Documents**.
 2. Select your search client from the dropdown.
 3. Use the search box to find a document. 
